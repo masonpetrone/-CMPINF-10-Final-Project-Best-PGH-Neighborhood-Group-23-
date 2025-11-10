@@ -2,5 +2,5 @@
 
 ### Datasets (from WPRDC):
 1. Allegheny County Air Quality
-2. Allegheny County Property Sale Transcations
+2. Property Tax Delinquency
 3. Monthly Criminal Activity
